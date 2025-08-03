@@ -1,0 +1,11 @@
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\bin\Debug\Parts_Management.exe.config
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\bin\Debug\Parts_Management.exe
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\bin\Debug\Parts_Management.pdb
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\bin\Debug\Parts_Management.xml
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\obj\Debug\Parts_Management.vbprojResolveAssemblyReference.cache
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\obj\Debug\Parts_Management.frmlogin.resources
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\obj\Debug\Parts_Management.Resources.resources
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\obj\Debug\Parts_Management.vbproj.GenerateResource.Cache
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\obj\Debug\Parts_Management.exe
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\obj\Debug\Parts_Management.xml
+D:\Mahad Work\Owais Work\Parts_Management\Parts_Management\obj\Debug\Parts_Management.pdb
